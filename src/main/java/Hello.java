@@ -3,7 +3,8 @@ public class Hello {
         System.out.println("Hello B21, HOW ARE YOU");
 
         // HELLO
-
-        //Oh i like this movie, who played it? let me continue
+        // movie on the phone 10 minutes
+        // movie on the phone 20 minutes
+        // final hour before going back to the room
     }
 }
