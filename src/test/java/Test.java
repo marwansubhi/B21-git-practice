@@ -3,5 +3,6 @@ public class Test {
         // testing new gitHub
         System.out.println("hello");
         System.out.println("Hello Git");
+        System.out.println("Adding more commits");
     }
 }
