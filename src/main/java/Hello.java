@@ -3,5 +3,6 @@ public class Hello {
         System.out.println("Hello B21, HOW ARE YOU");
 
         // HELLO
+        // movie on the phone 10 minutes
     }
 }
